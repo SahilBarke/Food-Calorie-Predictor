@@ -25,7 +25,7 @@ def layout(*args):
             left: 0;
             bottom: 0;
             width: 100%;
-            background: #141517;  /* light gray background */
+            background: #0E1117; /* dark background */
             box-shadow: 0 -2px 8px rgba(0,0,0,0.1); /* subtle shadow */
             # color: #333;
             text-align: center;
@@ -82,7 +82,7 @@ def footer():
         ),
         " | ",
         link(
-            "https://twitter.com/yourusername",
+            "https://twitter.com/Sahil_Barke",
             image(
                 "https://cdn-icons-png.flaticon.com/512/733/733579.png",
                 width="20px",
