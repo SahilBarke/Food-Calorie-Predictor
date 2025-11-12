@@ -25,7 +25,7 @@ def layout(*args):
             left: 0;
             bottom: 0;
             width: 100%;
-            background: #333;  /* light gray background */
+            background: #141517;  /* light gray background */
             box-shadow: 0 -2px 8px rgba(0,0,0,0.1); /* subtle shadow */
             # color: #333;
             text-align: center;
